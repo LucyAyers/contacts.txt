@@ -1,3 +1,10 @@
 Lucy Ayers 
 layers01@villanova.edu
+<<<<<<< HEAD
 978-522-0379
+=======
+
+
+ricky Weidemann
+rweidema@villanova.edu
+>>>>>>> db004125c93155f4f1b1992c7379269c5148c824
